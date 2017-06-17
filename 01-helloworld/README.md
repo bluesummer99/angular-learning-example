@@ -1,3 +1,4 @@
+# Angular2 入门
 > AngularJS2 是一款开源的JavaScript MV*（MVC、MVW、MVVM）框架，目前由Google维护。AngularJS弥补了HTML在构建应用方面的不足，其通过使用标识符（directives）结构，来扩展Web应用中的HTML词汇，使开发者可以使用HTML来声明动态内容，从而使得Web开发和测试工作变得更加容易
 
 ![](http://upload-images.jianshu.io/upload_images/6278284-6ddf01d6af4b6ca2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
